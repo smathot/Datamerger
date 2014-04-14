@@ -1,3 +1,18 @@
+datamerger (1.03-ubuntu1) saucy; urgency=low
+
+  * Columns in output file now sorted alphabetically by header names
+  * Progress indicator now works reliably
+  * Fixed 'out of memory' error when writing large xlsx files
+  * Prevented crash when encountering an invalid csv file
+
+ -- Sebastiaan Mathot <s.mathot@cogsci.nl>  Mon, 14 Apr 2014 17:38:40 +0200
+
+datamerger (1.02-ubuntu4) raring; urgency=low
+
+  * Fix a bug when using /usr/share/datamerger
+
+ -- Sebastiaan Mathot <s.mathot@cogsci.nl>  Wed, 16 Oct 2013 21:18:49 +0200
+
 datamerger (1.02-ubuntu2) raring; urgency=low
 
   * Numerous bugfixes
